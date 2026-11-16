@@ -1,0 +1,4 @@
+sku,warehouse_qty,channel_qty,delta,status
+DEMO-BELT-M,,2,,missing_in_warehouse
+DEMO-SOCK-PACK,12,,,missing_in_channel
+DEMO-TEE-S,18,14,4,quantity_mismatch
